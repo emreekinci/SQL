@@ -1,4 +1,4 @@
-# SQL
+# SQL Basic Level
 
 >Bu Readme dosyası genel olarak yapılan sorgularla ilgili özet bilgi sağlamak içindir.
 ### Her ödevin altına konuyla ilgili linkleri ekliyorum.
