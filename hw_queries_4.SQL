@@ -36,6 +36,6 @@ the ILIKE operator matches value "case-insensitively". */
 	  |   	!~~*   |    NOT ILIKE   |    */
 	  
 		-- Recommended links about it :
-		
+-- https://app.patika.dev/emrevaljean		
 -- https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-like/
 -- https://www.w3schools.com/sql/sql_like.asp
