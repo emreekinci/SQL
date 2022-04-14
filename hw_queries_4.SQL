@@ -24,17 +24,18 @@
  SELECT * FROM city WHERE city ILIKE '%R'; -- use "ILIKE"-->("R" = "r") and count value is : 33
 
 
-				   --(INFO AREA !!!)
+		 --(INFO AREA !!!)
 /* PostgreSQL supports the ILIKE operator that works like the LIKE operator. In addition, 
 the ILIKE operator matches value "case-insensitively". */
       
 /*	  |  Operator  |   Equivalent   |    --->  "Information on the subject"   
-	     _____________________________
-	    |		  ~~	   | 	  LIKE        |
-	    |	    ~~*	   |	  ILIKE	      |
-	    |	    !~~	   |	  NOT LIKE    |
-	    |   	!~~*   |	  NOT ILIKE   |    */
+	   _____________________________
+	  |	 ~~    |    LIKE        |
+	  |	~~*    |    ILIKE	|
+	  |	!~~    |    NOT LIKE    |
+	  |   	!~~*   |    NOT ILIKE   |    */
 	  
-					-- Recommended links about it :
+		-- Recommended links about it :
+		
 -- https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-like/
 -- https://www.w3schools.com/sql/sql_like.asp
