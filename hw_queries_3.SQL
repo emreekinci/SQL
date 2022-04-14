@@ -29,5 +29,6 @@ ve uzunluğu (length) 90 dan büyük olan ve rental_rate 2.99 olan verileri sır
 
 
               --Reccomended links :
-https://kb.objectrocket.com/postgresql/how-to-use-ilike-in-postgres-1258
-https://www.postgresql.org/docs/7.3/functions-matching.html
+-- https://app.patika.dev/emrevaljean              
+-- https://kb.objectrocket.com/postgresql/how-to-use-ilike-in-postgres-1258
+-- https://www.postgresql.org/docs/7.3/functions-matching.html
