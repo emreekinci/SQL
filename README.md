@@ -26,12 +26,13 @@ Contains summary information about SQL.
   <a href="https://learnsql.com/blog/sql-basics-cheat-sheet/" target="_blank">SQL Cheatsheet</a>
 <hr>
 
-### Contains
+### About Contains
 1. info
 2. Links
    1. Links Markdown
    2. Links to SQL tutorial  
-4. I'll add Third item 
-5. I'll add Fourth item 
+4. DML, DDL, DCL, DQL ? 
+    1. ***https://www.datasciencearth.com/sql-nedir-dml-ddl-dcl-dql-komutlari/***
+6. I'll add Fourth item 
 
 
