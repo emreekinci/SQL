@@ -26,6 +26,32 @@ Contains summary information about SQL.
   <a href="https://learnsql.com/blog/sql-basics-cheat-sheet/" target="_blank">SQL Cheatsheet</a>
 <hr>
 
+## 3. DML, DDL, DCL, DQL (?)
+  1. DML ?
+     1. INSERT  *
+     2. DELETE  *
+     3. UPDATE  *
+     4. MERGE
+     5. CALL
+     6. EXPLAIN PLAN  
+     7. LOCK TABLE 
+  3. DDL ?
+     1. CREATE *
+     2. ALTER *
+     3. DROP *
+     4. RENAME *
+     5. TURUNCATE *
+     6. COMMENT
+  5. DCL ?
+     1. GRANT
+     2. REVOKE
+     3. INVOKE
+   
+  7. DQL ?
+     1. SELECT
+    
+----
+      
 ### About Contains
 1. info
 2. Links
