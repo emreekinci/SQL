@@ -21,7 +21,8 @@
 
 --5. city tablosundaki şehir isimlerinin kaç tanesi 'R' veya r karakteri ile biter?
  -- result
- SELECT * FROM city WHERE city ILIKE '%R'; -- use "ILIKE"-->("R" = "r") and count value is : 33
+ SELECT COUNT(*) FROM city WHERE city ILIKE '%R'; -- use "ILIKE"-->("R" = "r") -- count value is : 33
+ --SELECT * FROM city WHERE city ILIKE '%R'; -- use "ILIKE"-->("R" = "r") 
 
 
 		 --(INFO AREA !!!)
