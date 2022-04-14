@@ -22,7 +22,7 @@ Contains summary information about SQL.
   <img src="Screenshot_2.jpg" width="500" alt="accessibility text">
 </p>
 <br>
->  If you want to see clearer schematics :
+  If you want to see clearer schematics :
   <a href="https://learnsql.com/blog/sql-basics-cheat-sheet/" target="_blank">SQL Cheatsheet</a>
 <hr>
 
