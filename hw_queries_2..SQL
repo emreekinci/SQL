@@ -34,5 +34,8 @@ FROM film
 WHERE rental_rate IN (0.99, 2.99, 4.99) AND replacement_cost IN (12.99, 15.99, 28.99)
 ORDER BY rental_rate ASC, replacement_cost;
 
-                        --Recommended about links :
+                        --Recommended links :
 --https://app.patika.dev/emrevaljean
+--https://www.geeksforgeeks.org/sql-between-in-operator/
+--https://www.w3schools.com/sql/sql_in.asp
+--https://www.w3schools.com/sql/sql_between.asp
