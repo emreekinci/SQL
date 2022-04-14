@@ -1,4 +1,4 @@
---hw4
+--SQL_hw_4
 
 
 --1. film tablosunda bulunan replacement_cost sütununda bulunan birbirinden farklı değerleri sıralayınız.
@@ -36,6 +36,6 @@ the ILIKE operator matches value "case-insensitively". */
 	  |   	!~~*   |    NOT ILIKE   |    */
 	  
 		-- Recommended links about it :
--- https://app.patika.dev/emrevaljean		
+-- Profil Linki Patika : https://app.patika.dev/emrevaljean		
 -- https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-like/
 -- https://www.w3schools.com/sql/sql_like.asp
