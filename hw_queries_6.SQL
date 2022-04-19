@@ -26,3 +26,5 @@
  
  -- https://www.w3schools.com/sql/sql_count_avg_sum.asp
  -- https://www.postgresql.org/docs/13/tutorial-agg.html
+ 
+ -- https://app.patika.dev/emrevaljean
