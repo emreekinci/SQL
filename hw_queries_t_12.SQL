@@ -31,3 +31,8 @@ LEFT JOIN customer ON customer.customer_id = payment.customer_id
 GROUP BY payment.customer_id,customer.first_name, customer.last_name
 ORDER BY Count(payment.customer_id) DESC  
 LIMIT 5;
+
+              -- Links
+-- https://www.w3schools.com/sql/sql_any_all.asp
+-- https://www.postgresqltutorial.com/postgresql-any/
+-- https://www.postgresqltutorial.com/postgresql-all/
