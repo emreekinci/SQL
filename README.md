@@ -13,6 +13,10 @@
 
 > [Patika](https://app.patika.dev/courses/sql)
 
+> [CodeAcademy](https://www.codecademy.com/learn/learn-sql)) 
+
+> [geeksforgeeks](https://www.geeksforgeeks.org/sql-tutorial/?ref=gcse)
+
 ### SQL Cheatsheet images and links :
 
 Contains summary information about SQL. 
