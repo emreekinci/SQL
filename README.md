@@ -13,7 +13,7 @@
 
 > [Patika](https://app.patika.dev/courses/sql)
 
-> [CodeAcademy](https://www.codecademy.com/learn/learn-sql)) 
+> [CodeAcademy](https://www.codecademy.com/learn/learn-sql) 
 
 > [geeksforgeeks](https://www.geeksforgeeks.org/sql-tutorial/?ref=gcse)
 
